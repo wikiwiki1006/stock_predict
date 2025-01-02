@@ -1,0 +1,487 @@
+Stock Name,Ticker,Market Cap,Exchange,Country,Sector,Industry
+Apple,AAPL,"$3,846,826",NASDAQ,United States,Computer and Technology,Computer - Microcomputers
+NVIDIA,NVDA,"$3,298,803",NASDAQ,United States,Computer and Technology,Semiconductor - General
+Microsoft,MSFT,"$3,246,069",NASDAQ,United States,Computer and Technology,Computer Software
+Amazon,AMZN,"$2,365,036",NASDAQ,United States,Retail/Wholesale,Internet Commerce
+Alphabet,GOOGL,"$2,343,050",NASDAQ,United States,Computer and Technology,Internet Services
+Meta Platforms,META,"$1,477,457",NASDAQ,United States,Computer and Technology,Internet Software
+Tesla,TSLA,"$1,351,628",NASDAQ,United States,uto/Tires/TrAucks,Auto Manufacturers - Domestic
+Broadcom,AVGO,"$1,031,217",NASDAQ,United States,Computer and Technology,Semiconductors
+Berkshire Hathaway,BRK.B,"$977,286",NYSE,United States,Finance,"Property, Casualty and Title Insurance"
+Walmart,WMT,"$741,000",NYSE,United States,Retail/Wholesale,Retail - Supermarket Chains
+Eli Lilly,LLY,"$728,847",NYSE,United States,Medical,Large Cap Pharmaceutical
+JPMorgan Chase,JPM,"$668,925",NYSE,United States,Finance,Finance - Investment Banks
+Visa,V,"$591,854",NYSE,United States,Business Services,Financial Transaction Services
+Mastercard,MA,"$484,642",NYSE,United States,Business Services,Financial Transaction Services
+Oracle,ORCL,"$474,532",NYSE,United States,Computer and Technology,Computer Software
+Exxon,XOM,"$465,309",NYSE,United States,Oils/Energy,Oil & Gas - International Integrated
+UnitedHealth Group,UNH,"$460,262",NYSE,United States,Medical,Medical - Health Maintenance Organizations
+Costco,COST,"$423,511",NASDAQ,United States,Retail/Wholesale,Retail - Discount & Variety
+Procter & Gamble,PG,"$395,788",NYSE,United States,Consumer Staples,Consumer Products - Misc. Discretionary
+Home Depot,HD,"$389,994",NYSE,United States,Retail/Wholesale,Retail - Home Furnishings
+Netflix,NFLX,"$388,581",NASDAQ,United States,Consumer Discretionary,Broadcasting - Radio & TV
+Johnson & Johnson,JNJ,"$347,829",NYSE,United States,Medical,Large Cap Pharmaceutical
+Bank Of America,BAC,"$338,911",NYSE,United States,Finance,Finance - Investment Banks
+Salesforce,CRM,"$328,873",NYSE,United States,Computer and Technology,Computer Software
+AbbVie,ABBV,"$310,275",NYSE,United States,Medical,Large Cap Pharmaceutical
+CocaCola,KO,"$269,453",NYSE,United States,Consumer Staples,Beverages - Soft Drinks
+Chevron,CVX,"$256,715",NYSE,United States,Oils/Energy,Oil & Gas - International Integrated
+T-Mobile US,TMUS,"$255,667",NASDAQ,United States,Computer and Technology,Wireless - National Providers
+Merck,MRK,"$248,031",NYSE,United States,Medical,Large Cap Pharmaceutical
+Wells Fargo,WFC,"$234,196",NYSE,United States,Finance,Finance - Investment Banks
+Cisco,CSCO,"$233,071",NASDAQ,United States,Computer and Technology,Computer Networks
+ServiceNow,NOW,"$224,798",NYSE,United States,Computer and Technology,Information Technology Services
+American Express,AXP,"$210,382",NYSE,United States,Finance,Finance - Miscellaneous Services
+McDonald's,MCD,"$209,740",NYSE,United States,Retail/Wholesale,Retail - Food & Restaurants
+PepsiCo,PEP,"$209,626",NASDAQ,United States,Consumer Staples,Beverages - Soft Drinks
+IBM,IBM,"$206,529",NYSE,United States,Computer and Technology,Computers - Integrated Systems
+Disney,DIS,"$202,880",NYSE,United States,Consumer Discretionary,Media Conglomerates
+Thermo Fisher Scientific,TMO,"$200,449",NYSE,United States,Medical,Medical Instruments Manufacturing
+Morgan Stanley,MS,"$198,866",NYSE,United States,Finance,Finance - Investment Banks
+Abbott Laboratories,ABT,"$198,127",NYSE,United States,Medical,Medical Products Manufacturing
+Adobe,ADBE,"$196,844",NASDAQ,United States,Computer and Technology,Computer Software
+AMD,AMD,"$193,455",NASDAQ,United States,Computer and Technology,Computers - Integrated Systems
+Philip Morris,PM,"$193,141",NYSE,United States,Consumer Staples,Tobacco Products
+Intuitive Surgical,ISRG,"$186,791",NASDAQ,United States,Medical,Medical Instruments Manufacturing
+GE Aerospace,GE,"$182,226",NYSE,United States,Transportation,Transportation - Airlines
+Intuit,INTU,"$180,096",NASDAQ,United States,Computer and Technology,Computer Software
+Goldman Sachs,GS,"$177,704",NYSE,United States,Finance,Finance - Investment Banks
+Caterpillar,CAT,"$176,725",NYSE,United States,Industrial Products,Construction and Mining Machinery
+Texas Instruments,TXN,"$170,466",NASDAQ,United States,Computer and Technology,Semiconductor - General
+QUALCOMM,QCOM,"$169,861",NASDAQ,United States,Computer and Technology,Wireless Equipment Manufacturers
+Verizon,VZ,"$168,090",NYSE,United States,Computer and Technology,Wireless - National Providers
+Booking Holdings,BKNG,"$167,092",NASDAQ,United States,Retail/Wholesale,Internet Commerce
+Danaher,DHR,"$165,076",NYSE,United States,Multi-Sector Conglomerates,Diversified Operations
+AT&T,T,"$163,238",NYSE,United States,Computer and Technology,Wireless - National Providers
+BlackRock,BLK,"$159,322",NYSE,United States,Finance,Finance - Investment Management
+RTX,RTX,"$155,037",NYSE,United States,Aerospace,Aerospace and Defense General
+S&P Global,SPGI,"$152,609",NYSE,United States,Business Services,Business Information Services
+Pfizer,PFE,"$149,382",NYSE,United States,Medical,Large Cap Pharmaceutical
+Honeywell,HON,"$148,464",NASDAQ,United States,Multi-Sector Conglomerates,Diversified Operations
+NextEra Energy,NEE,"$147,383",NYSE,United States,Utilities,Utility - Electric Power Distribution
+Comcast,CMCSA,"$146,250",NASDAQ,United States,Consumer Discretionary,Cable TV Providers
+Arista Networks,ANET,"$142,113",NYSE,United States,Computer and Technology,Communication Components Manufacturers
+Blackstone,BX,"$123,347",NYSE,United States,Finance,Finance - Miscellaneous Services
+Palo Alto Networks,PANW,"$122,565",NASDAQ,United States,Computer and Technology,Internet Software
+ADP,ADP,"$119,800",NASDAQ,United States,Business Services,Outsourcing Services
+Deere,DE,"$117,454",NYSE,United States,Industrial Products,Farm Machinery
+Fiserv,FI,"$117,226",NYSE,United States,Business Services,Financial Transaction Services
+Bristol Myers Squibb,BMY,"$116,275",NYSE,United States,Medical,Medical - Biomedical and Genetics
+Lockheed Martin,LMT,"$115,915",NYSE,United States,Aerospace,Aerospace and Defense General
+Gilead Sciences,GILD,"$115,367",NASDAQ,United States,Medical,Medical - Biomedical and Genetics
+NIKE,NKE,"$115,361",NYSE,United States,Consumer Discretionary,Shoes & Related Apparel
+Boeing,BA,"$109,638",NYSE,United States,Aerospace,Aerospace and Defense General
+ConocoPhillips,COP,"$109,475",NYSE,United States,Oils/Energy,Oil & Gas - US Integrated
+UPS,UPS,"$107,251",NYSE,United States,Transportation,Transportation - Air Freight
+Analog Devices,ADI,"$105,106",NASDAQ,United States,Computer and Technology,Semiconductor - Analog & Mixed
+Marsh & McLennan,MMC,"$103,990",NYSE,United States,Finance,Insurance Brokers
+Vertex Pharmaceuticals,VRTX,"$102,309",NASDAQ,United States,Medical,Medical - Biomedical and Genetics
+Micron Technology,MU,"$100,409",NASDAQ,United States,Computer and Technology,Computers - Integrated Systems
+Starbucks,SBUX,"$99,740",NASDAQ,United States,Retail/Wholesale,Retail - Food & Restaurants
+Marvell Technology,MRVL,"$96,827",NASDAQ,United States,Computer and Technology,Semiconductors
+Apollo Global Management,APO,"$96,772",NYSE,United States,Finance,Finance - Investment Management
+Prologis,PLD,"$95,692",NYSE,United States,Finance,REIT - Other Equity Trusts
+Lam Research,LRCX,"$92,371",NASDAQ,United States,Computer and Technology,Semiconductors
+Altria,MO,"$91,249",NYSE,United States,Consumer Staples,Tobacco Products
+Southern,SO,"$90,788",NYSE,United States,Utilities,Utility - Electric Power Distribution
+Equinix,EQIX,"$89,466",NASDAQ,United States,Finance,REIT - Retail Equity Trusts
+CrowdStrike,CRWD,"$89,236",NASDAQ,United States,Computer and Technology,Internet Software
+PayPal Holdings,PYPL,"$87,351",NASDAQ,United States,Computer and Technology,Internet Software
+MicroStrategy,MSTR,"$87,279",NASDAQ,United States,Computer and Technology,Computer Software
+Sherwin-Williams,SHW,"$87,008",NYSE,United States,Basic Materials,Chemicals - Specialty
+Intercontinental Exchange,ICE,"$86,304",NYSE,United States,Finance,Securities Exchanges
+CME Group,CME,"$85,957",NASDAQ,United States,Finance,Securities Exchanges
+American Tower,AMT,"$85,855",NYSE,United States,Finance,REIT - Other Equity Trusts
+Amphenol,APH,"$85,092",NYSE,United States,Computer and Technology,Electrical Connectors
+Elevance Health,ELV,"$84,874",NYSE,United States,Medical,Medical Services
+Moody's,MCO,"$84,503",NYSE,United States,Finance,Finance - Miscellaneous Services
+Chipotle Mexican Grill,CMG,"$84,304",NYSE,United States,Retail/Wholesale,Retail - Food & Restaurants
+Intel,INTC,"$84,190",NASDAQ,United States,Computer and Technology,Semiconductor - General
+KLA,KLAC,"$84,184",NASDAQ,United States,Computer and Technology,Electrical Products - Miscellaneous
+Duke Energy,DUK,"$83,644",NYSE,United States,Utilities,Utility - Electric Power Distribution
+Parker-Hannifin,PH,"$83,308",NYSE,United States,Industrial Products,General Industrial Machinery
+Cadence Design Systems,CDNS,"$82,682",NASDAQ,United States,Computer and Technology,Computer Software
+Waste Management,WM,"$82,613",NYSE,United States,Business Services,Waste Removal Services
+Dell,DELL,"$81,092",NYSE,United States,Computer and Technology,Computer - Microcomputers
+Mondelez,MDLZ,"$79,416",NASDAQ,United States,Consumer Staples,Food Items - Miscellaneous/Diversified
+Marriott,MAR,"$78,911",NASDAQ,United States,Consumer Discretionary,Hotels & Motels
+Motorola Solutions,MSI,"$78,537",NYSE,United States,Computer and Technology,Wireless Equipment Manufacturers
+Welltower,WELL,"$77,612",NYSE,United States,Finance,REIT - Other Equity Trusts
+Regeneron Pharmaceuticals,REGN,"$77,126",NASDAQ,United States,Medical,Medical - Biomedical and Genetics
+Cigna Group,CI,"$77,026",NYSE,United States,Medical,Medical - Health Maintenance Organizations
+HCA Healthcare,HCA,"$76,906",NYSE,United States,Medical,Medical - Hospitals
+PNC Financial Services,PNC,"$76,484",NYSE,United States,Finance,Finance - Investment Banks
+Illinois Tool Works,ITW,"$76,430",NYSE,United States,Industrial Products,General Industrial Machinery
+Synopsys,SNPS,"$76,080",NASDAQ,United States,Computer and Technology,Computer Software
+Cintas,CTAS,"$75,393",NASDAQ,United States,Business Services,Business Services
+Colgate-Palmolive,CL,"$75,190",NYSE,United States,Consumer Staples,Consumer Products - Misc. Discretionary
+U.S Bancorp,USB,"$74,757",NYSE,United States,Finance,Banks - Major Regional
+Fortinet,FTNT,"$74,492",NASDAQ,United States,Computer and Technology,Internet Software
+Zoetis,ZTS,"$74,370",NYSE,United States,Medical,Medical - Drug Manufacturing
+Interactive Brokers,IBKR,"$74,330",NASDAQ,United States,Finance,Finance - Investment Banks
+McKesson,MCK,"$73,592",NYSE,United States,Medical,Medical & Dental Supplies
+Southern Copper,SCCO,"$73,063",NYSE,United States,Basic Materials,Mining - Non-Ferrous
+Workday,WDAY,"$72,629",NASDAQ,United States,Computer and Technology,Internet Software
+General Dynamics,GD,"$72,493",NYSE,United States,Aerospace,Aerospace and Defense General
+Transdigm Group,TDG,"$71,758",NYSE,United States,Aerospace,Aerospace and Defense Equipment
+Arthur J Gallagher,AJG,"$70,719",NYSE,United States,Finance,Insurance Brokers
+Emerson Electric,EMR,"$70,673",NYSE,United States,Industrial Products,Electrical Machinery
+3M,MMM,"$70,401",NYSE,United States,Multi-Sector Conglomerates,Diversified Operations
+O'Reilly Automotive,ORLY,"$70,380",NASDAQ,United States,Retail/Wholesale,Retail & Wholesale Auto Parts
+Northrop Grumman,NOC,"$68,410",NYSE,United States,Aerospace,Aerospace and Defense General
+Capital One Financial,COF,"$68,157",NYSE,United States,Finance,Finance - Consumer Loands
+Ecolab,ECL,"$67,475",NYSE,United States,Basic Materials,Chemicals - Specialty
+Enterprise Products Partners,EPD,"$67,173",NYSE,United States,Oils/Energy,Oil & Gas - Production and Pipelines MLP
+Atlassian,TEAM,"$66,999",NASDAQ,United States,Computer and Technology,Internet Software
+EOG Resources,EOG,"$66,954",NYSE,United States,Oils/Energy,Oil & Gas - US Exploration and Production
+FedEx,FDX,"$66,410",NYSE,United States,Transportation,Transportation - Air Freight
+Becton Dickinson,BDX,"$66,029",NYSE,United States,Medical,Medical & Dental Supplies
+Air Products And Chemicals,APD,"$65,601",NYSE,United States,Basic Materials,Chemicals - Diversified
+Williams,WMB,"$65,205",NYSE,United States,Oils/Energy,Oil & Gas - Production and Pipelines
+Energy Transfer LP,ET,"$64,575",NYSE,United States,Oils/Energy,Oil & Gas - Production and Pipelines MLP
+Royal Caribbean Cruises,RCL,"$64,108",NYSE,United States,Consumer Discretionary,Leisure & Recreation Services
+Autodesk,ADSK,"$64,096",NASDAQ,United States,Computer and Technology,Computer Software
+Republic Services,RSG,"$63,798",NYSE,United States,Business Services,Waste Removal Services
+Trade Desk,TTD,"$61,702",NASDAQ,United States,Computer and Technology,Internet Services
+Carrier Global,CARR,"$61,451",NYSE,United States,Computer and Technology,Electrical Products - Miscellaneous
+CSX,CSX,"$61,420",NASDAQ,United States,Transportation,Transportation - Rail
+Hilton Worldwide Holdings,HLT,"$60,804",NYSE,United States,Consumer Discretionary,Hotels & Motels
+Target,TGT,"$60,246",NYSE,United States,Retail/Wholesale,Retail - Discount & Variety
+Kinder Morgan,KMI,"$59,651",NYSE,United States,Oils/Energy,Oil & Gas - Production and Pipelines
+Digital Realty Trust,DLR,"$59,234",NYSE,United States,Finance,REIT - Other Equity Trusts
+ONEOK,OKE,"$58,465",NYSE,United States,Oils/Energy,Oil & Gas - Production and Pipelines MLP
+Truist Financial,TFC,"$57,508",NYSE,United States,Finance,Banks - Major Regional
+Aflac,AFL,"$57,047",NYSE,United States,Finance,Insurance - Accident & Health
+General Motors,GM,"$56,970",NYSE,United States,Auto/Tires/Trucks,Auto Manufacturers - Domestic
+Bank Of New York Mellon,BK,"$56,436",NYSE,United States,Finance,Banks - Major Regional
+Roper Technologies,ROP,"$56,338",NASDAQ,United States,Computer and Technology,Information Technology Services
+MetLife,MET,"$56,335",NYSE,United States,Finance,Multi-Line Insurance Providers
+Copart,CPRT,"$56,097",NASDAQ,United States,Business Services,Auction & Valuation Services
+Simon Property,SPG,"$55,993",NYSE,United States,Finance,REIT - Retail Equity Trusts
+Freeport-McMoRan,FCX,"$55,839",NYSE,United States,Basic Materials,Mining - Non-Ferrous
+CVS Health,CVS,"$55,823",NYSE,United States,Retail/Wholesale,Retail - Drug Stores
+Block,SQ,"$55,566",NYSE,United States,Business Services,Technology Services
+PACCAR,PCAR,"$55,219",NASDAQ,United States,Auto/Tires/Trucks,Auto Manufacturers - Domestic
+Ares Management,ARES,"$55,110",NYSE,United States,Finance,Finance - Investment Management
+AutoZone,AZO,"$54,998",NYSE,United States,Retail/Wholesale,Retail & Wholesale Auto Parts
+Sempra Energy,SRE,"$54,985",NYSE,United States,Utilities,Utility - Natural Gas Distribution
+Travelers,TRV,"$54,657",NYSE,United States,Finance,"Property, Casualty and Title Insurance"
+W.W Grainger,GWW,"$53,227",NYSE,United States,Industrial Products,Industrial Services
+Norfolk Southern,NSC,"$52,974",NYSE,United States,Transportation,Transportation - Rail
+Public Storage,PSA,"$52,095",NYSE,United States,Finance,REIT - Other Equity Trusts
+Pacific Gas & Electric,PCG,"$51,835",NYSE,United States,Utilities,Utility - Electric Power Distribution
+Ameriprise Financial,AMP,"$51,623",NYSE,United States,Finance,Finance - Investment Management
+Allstate,ALL,"$51,255",NYSE,United States,Finance,"Property, Casualty and Title Insurance"
+Fair Isaac,FICO,"$50,911",NYSE,United States,Computer and Technology,Information Technology Services
+Datadog,DDOG,"$50,775",NASDAQ,United States,Computer and Technology,Internet Software
+Monster Beverage,MNST,"$50,299",NASDAQ,United States,Consumer Staples,Beverages - Soft Drinks
+Paychex,PAYX,"$50,243",NASDAQ,United States,Business Services,Outsourcing Services
+Charter Communications,CHTR,"$49,982",NASDAQ,United States,Consumer Discretionary,Cable TV Providers
+American Electric Power,AEP,"$49,354",NASDAQ,United States,Utilities,Utility - Electric Power Distribution
+Ross Stores,ROST,"$49,209",NASDAQ,United States,Retail/Wholesale,Retail - Discount & Variety
+Quanta Services,PWR,"$48,477",NYSE,United States,Construction,Engineering - Research & Development Services
+Cummins,CMI,"$48,203",NYSE,United States,Auto/Tires/Trucks,Internal Combustion Engines
+MPLX LP,MPLX,"$48,169",NYSE,United States,Oils/Energy,Oil & Gas - Production and Pipelines
+Axon Enterprise,AXON,"$48,169",NASDAQ,United States,Aerospace,Aerospace and Defense Equipment
+Vistra,VST,"$47,615",NYSE,United States,Utilities,Utility - Electric Power Distribution
+United Rentals,URI,"$47,421",NYSE,United States,Construction,Building & Construction Products - Misc.
+MSCI Inc,MSCI,"$47,399",NYSE,United States,Finance,Finance - Investment Management
+Cheniere Energy,LNG,"$46,868",NYSE,United States,Oils/Energy,Oil & Gas - US Exploration and Production
+Carvana,CVNA,"$46,605",NYSE,United States,Retail/Wholesale,Internet Commerce
+Realty Income,O,"$46,202",NYSE,United States,Finance,REIT - Retail Equity Trusts
+Phillips 66,PSX,"$45,582",NYSE,United States,Oils/Energy,Oil Refining & Marketing
+American,AIG,"$45,342",NYSE,United States,Finance,Multi-Line Insurance Providers
+Diamondback Energy,FANG,"$45,241",NASDAQ,United States,Oils/Energy,Oil & Gas - US Exploration and Production
+Dominion Energy,D,"$45,075",NYSE,United States,Utilities,Utility - Electric Power Distribution
+Vertiv Holdings,VRT,"$45,055",NYSE,United States,Computer and Technology,Information Technology Services
+Howmet Aerospace,HWM,"$45,026",NYSE,United States,Aerospace,Aerospace and Defense General
+D.R Horton,DHI,"$44,791",NYSE,United States,Construction,Building - Residential and Commercial
+Kroger,KR,"$44,755",NYSE,United States,Retail/Wholesale,Retail - Supermarket Chains
+Nasdaq,NDAQ,"$44,659",NASDAQ,United States,Finance,Securities Exchanges
+Occidental Petroleum,OXY,"$44,224",NYSE,United States,Oils/Energy,Oil & Gas - US Integrated
+Edwards Lifesciences,EW,"$44,123",NYSE,United States,Medical,Medical Instruments Manufacturing
+Cencora,COR,"$44,008",NYSE,United States,Medical,Medical Services
+Keurig Dr Pepper,KDP,"$43,908",NASDAQ,United States,Consumer Staples,Beverages - Soft Drinks
+Fidelity National Information Services,FIS,"$43,854",NYSE,United States,Business Services,Financial Transaction Services
+Kimberly-Clark,KMB,"$43,793",NYSE,United States,Consumer Staples,Consumer Products - Misc. Discretionary
+Newmont,NEM,"$43,580",NYSE,United States,Basic Materials,Gold Miners
+Discover Financial Services,DFS,"$43,476",NYSE,United States,Finance,Finance - Consumer Loands
+Marathon Petroleum,MPC,"$42,867",NYSE,United States,Oils/Energy,Oil Refining & Marketing
+Fastenal,FAST,"$42,863",NASDAQ,United States,Retail/Wholesale,Building Products - Retail & Wholesale
+AMETEK,AME,"$42,413",NYSE,United States,Computer and Technology,Electrical Test Equipment
+Public Service Enterprise Group,PEG,"$42,379",NYSE,United States,Utilities,Utility - Electric Power Distribution
+Prudential Financial,PRU,"$41,947",NYSE,United States,Finance,Multi-Line Insurance Providers
+Constellation Brands Inc,STZ,"$41,329",NYSE,United States,Consumer Staples,Alcoholic Beverages
+Corning,GLW,"$40,507",NYSE,United States,Computer and Technology,Communication Components Manufacturers
+L3Harris Technologies Inc,LHX,"$40,504",NYSE,United States,Aerospace,Aerospace and Defense General
+Baker Hughes,BKR,"$39,898",NASDAQ,United States,Oils/Energy,Oil & Gas - Field Services
+CBRE,CBRE,"$39,525",NYSE,United States,Finance,Real Estate Operations
+Corteva,CTVA,"$39,506",NYSE,United States,Consumer Staples,Agricultural Operations
+Hess,HES,"$39,498",NYSE,United States,Oils/Energy,Oil & Gas - US Integrated
+Crown Castle,CCI,"$39,401",NYSE,United States,Finance,REIT - Other Equity Trusts
+Delta Air Lines,DAL,"$39,317",NYSE,United States,Transportation,Transportation - Airlines
+Cognizant Technology Solutions,CTSH,"$39,284",NASDAQ,United States,Computer and Technology,Business Software Services
+Ford Motor,F,"$39,266",NYSE,United States,Auto/Tires/Trucks,Auto Manufacturers - Domestic
+Verisk Analytics,VRSK,"$39,096",NASDAQ,United States,Business Services,Business Information Services
+Electronic Arts,EA,"$38,764",NASDAQ,United States,Consumer Discretionary,Gaming
+Old Dominion Freight Line,ODFL,"$38,722",NASDAQ,United States,Transportation,Transportation - Truck
+Xcel Energy,XEL,"$38,704",NASDAQ,United States,Utilities,Utility - Electric Power Distribution
+Cloudflare,NET,"$38,675",NYSE,United States,Computer and Technology,Internet Software
+Agilent Technologies,A,"$38,648",NYSE,United States,Computer and Technology,Electrical Test Equipment
+Targa Resources,TRGP,"$38,551",NYSE,United States,Oils/Energy,Oil Refining & Marketing MLP
+Gartner,IT,"$37,892",NYSE,United States,Business Services,Consulting Services
+Las Vegas Sands,LVS,"$37,883",NYSE,United States,Consumer Discretionary,Gaming
+Sysco,SYY,"$37,810",NYSE,United States,Consumer Staples,Food Items - Miscellaneous/Diversified
+Valero Energy,VLO,"$37,544",NYSE,United States,Oils/Energy,Oil Refining & Marketing
+Lennar,LEN,"$37,453",NYSE,United States,Construction,Building - Residential and Commercial
+Otis Worldwide,OTIS,"$37,374",NYSE,United States,Construction,Building & Construction Products - Misc.
+Exelon,EXC,"$37,199",NASDAQ,United States,Utilities,Utility - Electric Power Distribution
+Ingersoll Rand,IR,"$37,190",NYSE,United States,Industrial Products,General Industrial Machinery
+HubSpot,HUBS,"$37,117",NYSE,United States,Computer and Technology,Internet Software
+Yum! Brands,YUM,"$36,938",NYSE,United States,Retail/Wholesale,Retail - Food & Restaurants
+Kraft Heinz,KHC,"$36,904",NASDAQ,United States,Consumer Staples,Food Items - Miscellaneous/Diversified
+Veeva Systems,VEEV,"$36,391",NYSE,United States,Computer and Technology,Internet Software
+IQVIA Holdings,IQV,"$35,805",NYSE,United States,Medical,Medical Instruments Manufacturing
+DraftKings,DKNG,"$35,534",NASDAQ,United States,Consumer Discretionary,Gaming
+General Mills,GIS,"$35,064",NYSE,United States,Consumer Staples,Food Items - Miscellaneous/Diversified
+ResMed,RMD,"$34,830",NYSE,United States,Medical,Medical Products Manufacturing
+Vulcan Materials,VMC,"$34,749",NYSE,United States,Construction,"Building - Cement, Concrete and Aggregates"
+Hershey,HSY,"$34,453",NYSE,United States,Consumer Staples,Food Items - Confectionery
+IDEXX Laboratories,IDXX,"$33,758",NASDAQ,United States,Medical,Medical Instruments Manufacturing
+Wabtec,WAB,"$33,180",NYSE,United States,Transportation,Transportation - Equipment & Leasing
+Heico,HEI,"$33,117",NYSE,United States,Aerospace,Aerospace and Defense Equipment
+Rockwell Automation,ROK,"$32,716",NYSE,United States,Computer and Technology,Electrical Products - Miscellaneous
+Martin Marietta Materials,MLM,"$32,618",NYSE,United States,Construction,"Building - Cement, Concrete and Aggregates"
+DuPont De Nemours,DD,"$32,300",NYSE,United States,Basic Materials,Chemicals - Diversified
+Entergy,ETR,"$32,217",NYSE,United States,Utilities,Utility - Electric Power Distribution
+Deckers Outdoor,DECK,"$32,051",NYSE,United States,Retail/Wholesale,Retail - Apparel & Shoes
+Equifax,EFX,"$32,033",NYSE,United States,Business Services,Consulting Services
+United Airlines Holdings Inc,UAL,"$32,033",NASDAQ,United States,Transportation,Transportation - Airlines
+Take-Two Interactive Software,TTWO,"$31,959",NASDAQ,United States,Consumer Discretionary,"Toys, Games and Hobby Products"
+Hartford Financial Services,HIG,"$31,734",NYSE,United States,Finance,Multi-Line Insurance Providers
+Alnylam Pharmaceuticals,ALNY,"$31,657",NASDAQ,United States,Medical,Medical - Biomedical and Genetics
+Raymond James Financial,RJF,"$31,637",NYSE,United States,Finance,Finance - Investment Banks
+AvalonBay Communities,AVB,"$31,601",NYSE,United States,Finance,REIT - Residential Equity Trusts
+M&T Bank,MTB,"$31,439",NYSE,United States,Finance,Banks - Major Regional
+Tradeweb Markets,TW,"$31,356",NASDAQ,United States,Finance,Finance - Investment Banks
+DexCom,DXCM,"$31,263",NASDAQ,United States,Medical,Medical Instruments Manufacturing
+Consolidated Edison Inc,ED,"$31,187",NYSE,United States,Utilities,Utility - Electric Power Distribution
+Extra Space Storage Inc,EXR,"$31,162",NYSE,United States,Finance,REIT - Other Equity Trusts
+EBay,EBAY,"$31,140",NASDAQ,United States,Retail/Wholesale,Internet Commerce
+Live Nation Entertainment,LYV,"$30,968",NYSE,United States,Consumer Discretionary,Movie & TV Production and Distribution
+Carnival,CCL,"$30,932",NYSE,United States,Consumer Discretionary,Leisure & Recreation Services
+HP,HPQ,"$30,891",NYSE,United States,Computer and Technology,Computer - Microcomputers
+Iron Mountain,IRM,"$30,843",NYSE,United States,Business Services,Business Information Services
+Edison,EIX,"$30,786",NYSE,United States,Utilities,Utility - Electric Power Distribution
+VICI Properties,VICI,"$30,350",NYSE,United States,Finance,REIT - Other Equity Trusts
+Centene,CNC,"$30,080",NYSE,United States,Medical,Medical - Health Maintenance Organizations
+WEC Energy,WEC,"$29,895",NYSE,United States,Utilities,Utility - Electric Power Distribution
+Microchip Technology,MCHP,"$29,809",NASDAQ,United States,Computer and Technology,Semiconductor - Analog & Mixed
+First Citizens BancShares,FCNCA,"$29,805",NASDAQ,United States,Finance,Banks - Southeast
+Humana,HUM,"$29,754",NYSE,United States,Medical,Medical - Health Maintenance Organizations
+ANSYS,ANSS,"$29,591",NASDAQ,United States,Computer and Technology,Computer Software
+Brown & Brown,BRO,"$29,434",NYSE,United States,Finance,Insurance Brokers
+CoStar,CSGP,"$29,288",NASDAQ,United States,Computer and Technology,Information Technology Services
+Monolithic Power Systems,MPWR,"$28,937",NASDAQ,United States,Computer and Technology,Semiconductor - Analog & Mixed
+GoDaddy,GDDY,"$28,838",NYSE,United States,Computer and Technology,Internet Services - Delivery
+Tractor Supply,TSCO,"$28,804",NASDAQ,United States,Retail/Wholesale,Retail - Miscellaneous & Diversified
+State Street,STT,"$28,787",NYSE,United States,Finance,Banks - Major Regional
+Fifth Third Bancorp,FITB,"$28,786",NASDAQ,United States,Finance,Banks - Major Regional
+Zscaler,ZS,"$28,751",NASDAQ,United States,Computer and Technology,Internet Services
+Cardinal Health,CAH,"$28,625",NYSE,United States,Medical,Medical & Dental Supplies
+Global Payments,GPN,"$28,511",NYSE,United States,Business Services,Financial Transaction Services
+Xylem,XYL,"$28,459",NYSE,United States,Business Services,Waste Removal Services
+Hewlett Packard Enterprise,HPE,"$28,424",NYSE,United States,Computer and Technology,Computers - Integrated Systems
+Keysight Technologies,KEYS,"$28,265",NYSE,United States,Computer and Technology,Electrical Measuring Instruments
+Dow,DOW,"$27,962",NYSE,United States,Basic Materials,Chemicals - Diversified
+ON Semiconductor,ON,"$27,890",NASDAQ,United States,Computer and Technology,Semiconductor - Analog & Mixed
+PPG Industries,PPG,"$27,889",NYSE,United States,Basic Materials,Chemicals - Specialty
+Kellanova,K,"$27,748",NYSE,United States,Consumer Discretionary,Consumer Products - Misc. Discretionary
+Nucor,NUE,"$27,374",NYSE,United States,Basic Materials,Steel Producers
+Equity Residential,EQR,"$27,072",NYSE,United States,Finance,REIT - Residential Equity Trusts
+Estee Lauder,EL,"$26,694",NYSE,United States,Consumer Staples,Cosmetics and Toiletries
+Broadridge Financial Solutions,BR,"$26,418",NYSE,United States,Business Services,Outsourcing Services
+Zoom Communications,ZM,"$26,236",NASDAQ,United States,Computer and Technology,Internet Software
+Warner Bros Discovery,WBD,"$26,224",NASDAQ,United States,Consumer Discretionary,Broadcasting - Radio & TV
+Texas Pacific Land,TPL,"$26,033",NYSE,United States,Oils/Energy,Other Alternate Energy
+Church & Dwight,CHD,"$25,994",NYSE,United States,Consumer Staples,Consumer Products - Misc. Discretionary
+Mettler-Toledo,MTD,"$25,972",NYSE,United States,Computer and Technology,Scientific Instruments Manufacturing
+Dover,DOV,"$25,966",NYSE,United States,Industrial Products,General Industrial Machinery
+Tyler Technologies,TYL,"$25,911",NYSE,United States,Computer and Technology,Business Software Services
+Fortive,FTV,"$25,830",NYSE,United States,Computer and Technology,Electrical Test Equipment
+T Rowe Price,TROW,"$25,797",NASDAQ,United States,Finance,Finance - Investment Management
+EQT,EQT,"$25,651",NYSE,United States,Oils/Energy,Oil & Gas - US Exploration and Production
+Synchrony Financial,SYF,"$25,483",NYSE,United States,Finance,Finance - Miscellaneous Services
+NVR,NVR,"$25,359",NYSE,United States,Construction,Building - Residential and Commercial
+Cheniere Energy Partners,CQP,"$25,277",NYSE,United States,Oils/Energy,Other Alternate Energy
+DTE Energy,DTE,"$24,889",NYSE,United States,Utilities,Utility - Electric Power Distribution
+Ventas,VTR,"$24,650",NYSE,United States,Finance,REIT - Other Equity Trusts
+LPL Financial Holdings,LPLA,"$24,555",NASDAQ,United States,Finance,Finance - Investment Banks
+American Water Works,AWK,"$24,541",NYSE,United States,Utilities,Utility - Water Supply
+Archer Daniels Midland,ADM,"$24,161",NYSE,United States,Consumer Staples,Agricultural Operations
+NetApp,NTAP,"$24,082",NASDAQ,United States,Computer and Technology,Computer Storage Devices
+West Pharmaceutical Services,WST,"$24,001",NYSE,United States,Medical,Medical & Dental Supplies
+Corpay,CPAY,"$23,969",NYSE,United States,Business Services,Financial Transaction Services
+PPL,PPL,"$23,932",NYSE,United States,Utilities,Utility - Electric Power Distribution
+LyondellBasell Industries,LYB,"$23,870",NYSE,United States,Basic Materials,Chemicals - Diversified
+Ameren,AEE,"$23,834",NYSE,United States,Utilities,Utility - Electric Power Distribution
+Expedia,EXPE,"$23,712",NASDAQ,United States,Retail/Wholesale,Internet Commerce
+Huntington Bancshares,HBAN,"$23,710",NASDAQ,United States,Finance,Banks - Midwest
+Rocket,RKT,"$23,578",NYSE,United States,Finance,Finance - Mortgages and Related Services
+CDW,CDW,"$23,259",NASDAQ,United States,Computer and Technology,Information Technology Services
+FirstEnergy,FE,"$22,932",NYSE,United States,Utilities,Utility - Electric Power Distribution
+Hubbell Inc,HUBB,"$22,907",NYSE,United States,Industrial Products,Electrical Utility Machinery
+Halliburton,HAL,"$22,815",NYSE,United States,Oils/Energy,Oil & Gas - Field Services
+Rollins,ROL,"$22,724",NYSE,United States,Construction,Building - Maintenance and Services
+PulteGroup,PHM,"$22,666",NYSE,United States,Construction,Building - Residential and Commercial
+Fox,FOXA,"$22,622",NASDAQ,United States,Consumer Discretionary,Broadcasting - Radio & TV
+Williams-Sonoma,WSM,"$22,611",NYSE,United States,Retail/Wholesale,Retail - Home Furnishings
+Cincinnati Financial,CINF,"$22,598",NASDAQ,United States,Finance,"Property, Casualty and Title Insurance"
+PTC,PTC,"$22,534",NASDAQ,United States,Computer and Technology,Computer Software
+Lennox,LII,"$22,381",NYSE,United States,Construction,Building Products - Air Conditioning & Heating
+W.R Berkley,WRB,"$22,319",NYSE,United States,Finance,"Property, Casualty and Title Insurance"
+Markel Group,MKL,"$22,216",NYSE,United States,Multi-Sector Conglomerates,Diversified Operations
+Darden Restaurants,DRI,"$22,042",NYSE,United States,Retail/Wholesale,Retail - Food & Restaurants
+International Flavors & Fragrances,IFF,"$21,922",NYSE,United States,Basic Materials,Chemicals - Specialty
+SBA Communications,SBAC,"$21,888",NASDAQ,United States,Finance,REIT - Other Equity Trusts
+Waters,WAT,"$21,860",NYSE,United States,Medical,Medical Instruments Manufacturing
+Teledyne Technologies,TDY,"$21,775",NYSE,United States,Aerospace,Aerospace and Defense Equipment
+Atmos Energy,ATO,"$21,708",NYSE,United States,Utilities,Utility - Natural Gas Distribution
+Regions Financial,RF,"$21,604",NYSE,United States,Finance,Banks - Southeast
+Illumina,ILMN,"$21,573",NASDAQ,United States,Medical,Medical - Biomedical and Genetics
+EMCOR,EME,"$21,429",NYSE,United States,Construction,Building - Heavy Construction
+Natera,NTRA,"$21,372",NASDAQ,United States,Medical,Medical Services
+Biogen,BIIB,"$21,344",NASDAQ,United States,Medical,Medical - Biomedical and Genetics
+Zimmer Biomet Holdings,ZBH,"$21,325",NYSE,United States,Medical,Medical Products Manufacturing
+CenterPoint Energy,CNP,"$21,207",NYSE,United States,Utilities,Utility - Electric Power Distribution
+McCormick,MKC,"$21,163",NYSE,United States,Consumer Staples,Food Items - Miscellaneous/Diversified
+Pure Storage,PSTG,"$21,010",NYSE,United States,Computer and Technology,Computer Storage Devices
+Eversource Energy,ES,"$20,867",NYSE,United States,Utilities,Utility - Electric Power Distribution
+Western Digital,WDC,"$20,825",NASDAQ,United States,Computer and Technology,Computer Storage Devices
+Ubiquiti,UI,"$20,773",NYSE,United States,Computer and Technology,Wireless Equipment Manufacturers
+Tyson Foods,TSN,"$20,647",NYSE,United States,Consumer Staples,Food Items - Meat Products
+Teradyne,TER,"$20,512",NASDAQ,United States,Computer and Technology,Electrical Products - Miscellaneous
+Packaging Of America,PKG,"$20,474",NYSE,United States,Industrial Products,Containers - Paper & Plastic
+Clorox,CLX,"$20,355",NYSE,United States,Consumer Staples,Consumer Products - Misc. Discretionary
+Northern Trust,NTRS,"$20,313",NASDAQ,United States,Finance,Banks - Major Regional
+Zebra Technologies,ZBRA,"$20,273",NASDAQ,United States,Industrial Products,Thermal Processing Machinery
+Devon Energy,DVN,"$20,213",NYSE,United States,Oils/Energy,Oil & Gas - US Exploration and Production
+Weyerhaeuser,WY,"$19,981",NYSE,United States,Construction,Building Products - Wood
+Southwest Airlines,LUV,"$19,959",NYSE,United States,Transportation,Transportation - Airlines
+Ulta Beauty,ULTA,"$19,941",NASDAQ,United States,Retail/Wholesale,Retail - Miscellaneous & Diversified
+Pinterest,PINS,"$19,930",NYSE,United States,Computer and Technology,Internet Software
+CMS Energy,CMS,"$19,902",NYSE,United States,Utilities,Utility - Electric Power Distribution
+Invitation Home,INVH,"$19,689",NYSE,United States,Finance,REIT - Residential Equity Trusts
+Watsco,WSO,"$19,558",NYSE,United States,Construction,Building Products - Air Conditioning & Heating
+First Solar,FSLR,"$19,526",NASDAQ,United States,Oils/Energy,Solar Equipment and Services
+Brown-Forman,BF.B,"$19,511",NYSE,United States,Consumer Staples,Alcoholic Beverages
+Leidos Holdings,LDOS,"$19,322",NYSE,United States,Aerospace,Aerospace and Defense General
+Erie Indemnity,ERIE,"$19,238",NASDAQ,United States,Finance,Insurance Brokers
+Citizens Financial,CFG,"$19,148",NYSE,United States,Finance,Finance - Savings & Loans
+Labcorp,LH,"$19,121",NYSE,United States,Medical,Medical & Dental Supplies
+Snap,SNAP,"$19,120",NYSE,United States,Computer and Technology,Internet Software
+VeriSign,VRSN,"$19,109",NASDAQ,United States,Computer and Technology,Internet Software & Services
+Docusign,DOCU,"$19,073",NASDAQ,United States,Computer and Technology,Internet Software
+International Paper,IP,"$18,916",NYSE,United States,Basic Materials,Paper & Paper Products
+SS&C Technologies Holdings,SSNC,"$18,779",NASDAQ,United States,Computer and Technology,Computer Software
+Insulet,PODD,"$18,698",NASDAQ,United States,Medical,Medical Products Manufacturing
+Cooper,COO,"$18,649",NASDAQ,United States,Medical,Medical & Dental Supplies
+TransUn,TRU,"$18,537",NYSE,United States,Business Services,Business Information Services
+FactSet Research Systems,FDS,"$18,368",NYSE,United States,Business Services,Business Information Services
+NRG Energy,NRG,"$18,322",NYSE,United States,Utilities,Utility - Electric Power Distribution
+MongoDB,MDB,"$18,292",NASDAQ,United States,Computer and Technology,Internet Software
+Best Buy,BBY,"$18,290",NYSE,United States,Retail/Wholesale,Retail - Consumer Electronics
+Essex Property Trust,ESS,"$18,237",NYSE,United States,Finance,REIT - Residential Equity Trusts
+Loews,L,"$18,117",NYSE,United States,Finance,Multi-Line Insurance Providers
+Burlington Stores,BURL,"$18,108",NYSE,United States,Retail/Wholesale,Retail - Discount & Variety
+Snap-On,SNA,"$18,044",NYSE,United States,Consumer Discretionary,Tools - Hand Held
+Carlyle Group,CG,"$17,963",NASDAQ,United States,Finance,Finance - Investment Management
+Mid-America Apartment Communities,MAA,"$17,929",NYSE,United States,Finance,REIT - Residential Equity Trusts
+DICK'S Sporting Goods,DKS,"$17,823",NYSE,ionUnited States,Retail/Wholesale,Retail - Miscellaneous & Diversified
+Principal Financial,PFG,"$17,681",NASDAQ,United States,Finance,Multi-Line Insurance Providers
+Super Micro Computer,SMCI,"$17,669",NASDAQ,United States,Computer and Technology,Computer Storage Devices
+Steel Dynamics,STLD,"$17,613",NASDAQ,United States,Basic Materials,Steel Producers
+Trimble,TRMB,"$17,495",NASDAQ,United States,Industrial Products,General Industrial Machinery
+Coterra Energy,CTRA,"$17,443",NYSE,United States,Oils/Energy,Oil & Gas - US Exploration and Production
+Nutanix,NTNX,"$17,434",NASDAQ,United States,Computer and Technology,Information Technology Services
+Hormel Foods,HRL,"$17,393",NYSE,United States,Consumer Staples,Food Items - Meat Products
+Omnicom Group,OMC,"$17,338",NYSE,United States,Business Services,Advertising and Marketing Services
+Alexandria Real Estate Equities,ARE,"$17,331",NYSE,United States,Finance,REIT - Other Equity Trusts
+Builders FirstSource,BLDR,"$17,320",NYSE,United States,Retail/Wholesale,Building Products - Retail & Wholesale
+Zillow,ZG,"$17,230",NASDAQ,United States,Finance,Finance - Mortgages and Related Services
+J.B Hunt Transport Services,JBHT,"$17,164",NASDAQ,United States,Transportation,Transportation - Truck
+Gen Digital,GEN,"$17,149",NASDAQ,United States,Business Services,Technology Services
+Carlisle,CSL,"$17,146",NYSE,United States,Multi-Sector Conglomerates,Diversified Operations
+Manhattan Associates,MANH,"$17,117",NASDAQ,United States,Computer and Technology,Computer Software
+Quest Diagnostics,DGX,"$17,088",NYSE,United States,Medical,Medical - Outpatient & Home Care
+KeyCorp,KEY,"$16,941",NYSE,United States,Finance,Banks - Major Regional
+NiSource,NI,"$16,883",NYSE,United States,Utilities,Utility - Electric Power Distribution
+Molina Healthcare,MOH,"$16,859",NYSE,United States,Medical,Medical - Health Maintenance Organizations
+Jacobs Solutions,J,"$16,835",NYSE,United States,Business Services,Technology Services
+Dollar General,DG,"$16,802",NYSE,United States,Retail/Wholesale,Retail - Discount & Variety
+Booz Allen Hamilton Holding,BAH,"$16,763",NYSE,United States,Business Services,Consulting Services
+Ball,BALL,"$16,652",NYSE,United States,Industrial Products,Containers - Metal & Glass
+Twilio,TWLO,"$16,555",NYSE,United States,Computer and Technology,Internet Software
+Dynatrace,DT,"$16,309",NYSE,United States,Computer and Technology,Information Technology Services
+Hologic,HOLX,"$16,260",NASDAQ,United States,Medical,Medical Instruments Manufacturing
+Jabil,JBL,"$16,195",NYSE,United States,Computer and Technology,Electrical Manufacturing Services (EMS)
+Warner Music Group,WMG,"$16,141",NASDAQ,United States,Consumer Discretionary,Movie & TV Production and Distribution
+RPM,RPM,"$16,125",NYSE,United States,Construction,Paints & Allied Products
+Genuine Parts,GPC,"$16,091",NYSE,United States,Retail/Wholesale,Retail & Wholesale Auto Parts
+IDEX,IEX,"$16,082",NYSE,United States,Industrial Products,General Industrial Machinery
+United Therapeutics,UTHR,"$16,053",NASDAQ,United States,Medical,Medical - Drug Manufacturing
+Masco,MAS,"$16,050",NYSE,United States,Construction,Building & Construction Products - Misc.
+News,NWSA,"$15,843",NASDAQ,United States,Consumer Discretionary,Movie & TV Production and Distribution
+Kimco Realty,KIM,"$15,787",NYSE,United States,Finance,REIT - Retail Equity Trusts
+US Foods Holding,USFD,"$15,768",NYSE,United States,Consumer Staples,Food Items - Miscellaneous/Diversified
+Align Technology,ALGN,"$15,756",NASDAQ,United States,Medical,Medical & Dental Supplies
+Sun Communities,SUI,"$15,756",NYSE,United States,Finance,REIT - Residential Equity Trusts
+XPO,XPO,"$15,743",NYSE,United States,Transportation,Transportation - Truck
+Dollar Tree,DLTR,"$15,682",NASDAQ,United States,Retail/Wholesale,Retail - Discount & Variety
+Jefferies Financial Group,JEF,"$15,663",NYSE,United States,Finance,Finance - Miscellaneous Services
+Comfort Systems USA,FIX,"$15,605",NYSE,United States,Construction,Building Products - Air Conditioning & Heating
+Expeditors Of Washington,EXPD,"$15,605",NYSE,United States,Transportation,Transportation - Services
+Fidelity National Financial,FNF,"$15,354",NYSE,United States,Finance,"Property, Casualty and Title Insurance"
+Hyatt Hotels,H,"$15,351",NYSE,United States,Consumer Discretionary,Hotels & Motels
+Moderna,MRNA,"$15,158",NASDAQ,United States,Medical,Medical - Biomedical and Genetics
+Alliant Energy,LNT,"$15,127",NASDAQ,United States,Utilities,Utility - Electric Power Distribution
+Avery Dennison,AVY,"$15,116",NYSE,United States,Industrial Products,Office Supplies and Forms
+Coherent,COHR,"$15,106",NYSE,United States,Business Services,Technology Services
+Baxter,BAX,"$15,062",NYSE,United States,Medical,Medical Products Manufacturing
+Entegris,ENTG,"$15,018",NASDAQ,United States,Computer and Technology,Electronics - Manufacturing Machinery
+Casey's General Stores,CASY,"$14,964",NASDAQ,United States,Retail/Wholesale,Retail - Convenience Stores
+Tapestry,TPR,"$14,949",NYSE,United States,Retail/Wholesale,Retail - Apparel & Shoes
+Viatris,VTRS,"$14,944",NASDAQ,United States,Medical,Medical Services
+CF Industries Holdings,CF,"$14,788",NYSE,United States,Basic Materials,Fertilizer Manufacturers
+F5,FFIV,"$14,786",NASDAQ,United States,Computer and Technology,Internet Software
+Domino's Pizza Inc,DPZ,"$14,717",NYSE,United States,Retail/Wholesale,Retail - Food & Restaurants
+Guidewire Software,GWRE,"$14,702",NYSE,United States,Computer and Technology,Business Software Services
+Royalty Pharma,RPRX,"$14,682",NASDAQ,United States,Finance,Finance - Miscellaneous Services
+"Western Midstream Partners, LP",WES,"$14,598",NYSE,United States,Oils/Energy,Oil Refining & Marketing MLP
+Morningstar,MORN,"$14,594",NASDAQ,United States,Business Services,Business Information Services
+Equitable Holdings,EQH,"$14,576",NYSE,United States,Finance,Finance - Miscellaneous Services
+Westlake,WLK,"$14,573",NYSE,United States,Basic Materials,Chemicals - Plastics
+Reliance,RS,"$14,559",NYSE,United States,Basic Materials,Mining - Miscellaneous
+Owens Corning Inc,OC,"$14,533",NYSE,United States,Construction,Building & Construction Products - Misc.
+Avantor,AVTR,"$14,436",NYSE,United States,Medical,Medical Services
+Akamai Technologies,AKAM,"$14,405",NASDAQ,United States,Computer and Technology,Internet Services
+United Dominion Realty Trust,UDR,"$14,340",NYSE,United States,Finance,REIT - Residential Equity Trusts
+AECOM,ACM,"$14,305",NYSE,United States,Construction,Engineering - Research & Development Services
+Graco,GGG,"$14,303",NYSE,United States,Industrial Products,General Industrial Machinery
+Ralph Lauren,RL,"$14,300",NYSE,United States,Consumer Discretionary,Textile - Apparel Manufacturing
+Okta,OKTA,"$14,270",NASDAQ,United States,Computer and Technology,Internet Software & Services
+Textron,TXT,"$14,257",NYSE,United States,Aerospace,Aerospace and Defense General
+Skyworks Solutions,SWKS,"$14,193",NASDAQ,United States,Computer and Technology,Semiconductors - Radio Frequency
+Evergy,EVRG,"$14,127",NASDAQ,United States,Utilities,Utility - Electric Power Distribution
+EPAM Systems,EPAM,"$14,082",NYSE,United States,Computer and Technology,Information Technology Services
+Healthpeak Properties,DOC,"$14,073",NYSE,United States,Finance,REIT - Other Equity Trusts
+U-Haul Holding,UHAL,"$13,898",NYSE,United States,Transportation,Transportation - Services
+Ares Capital,ARCC,"$13,813",NASDAQ,United States,Finance,Finance - SBIC & Commercial
+Chewy,CHWY,"$13,731",NYSE,United States,Retail/Wholesale,Internet Commerce
+Neurocrine Biosciences,NBIX,"$13,711",NASDAQ,United States,Medical,Medical - Drug Manufacturing
+Revvity,RVTY,"$13,699",NYSE,United States,Medical,Medical Services
+FTAI Aviation,FTAI,"$13,689",NASDAQ,United States,Aerospace,Aerospace and Defense Equipment
+Reinsurance Group Of America,RGA,"$13,669",NYSE,United States,Finance,Life Insurance Providers
+American Homes 4 Rent,AMH,"$13,494",NYSE,United States,Finance,REIT - Residential Equity Trusts
+Curtiss-Wright,CW,"$13,442",NYSE,United States,Aerospace,Aerospace and Defense Equipment
+Regency Centers,REG,"$13,394",NASDAQ,United States,Finance,REIT - Retail Equity Trusts
